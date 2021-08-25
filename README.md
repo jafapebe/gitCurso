@@ -1,0 +1,2 @@
+# gitCurso
+proyecto de prueba
